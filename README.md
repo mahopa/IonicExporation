@@ -10,6 +10,7 @@ Personal Ionic Template Library with both UI and Unit Test Coverage
 - Routing
 
 ###Unit Testing
+- Karma 
 
 ###UI Testing
 - Selenium
